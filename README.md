@@ -40,9 +40,15 @@ A modern, full-stack hostel management system built with Laravel and React. This
 ### Application Preview
 Experience the De Rio Hostel Management System with these interface screenshots:
 
-#### Dashboard & Booking Management
+#### Main Homepage View
 <div align="center">
   <img src="screenshots/1Screenshot%202025-12-12%20181219.png" alt="Dashboard" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
+  <p><i>Homepage View</i></p>
+</div>
+
+#### Dashboard & Booking Management
+<div align="center">
+  <img src="screenshots/Screenshot%202026-02-01%20155734.png" alt="Latest Features" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
   <p><i>Main Dashboard View</i></p>
 </div>
 
@@ -70,11 +76,7 @@ Experience the De Rio Hostel Management System with these interface screenshots:
   <p><i>User Booking History & Tracking</i></p>
 </div>
 
-#### Latest Features
-<div align="center">
-  <img src="screenshots/Screenshot%202026-02-01%20155734.png" alt="Latest Features" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
-  <p><i>Latest System Features & Updates</i></p>
-</div>
+
 
 ## Tech Stack
 
