@@ -52,16 +52,16 @@ Experience the De Rio Hostel Management System with these interface screenshots:
   <p><i>Main Dashboard View</i></p>
 </div>
 
-#### Room Listings & Details
+#### Authentication Page
 <div align="center">
   <img src="screenshots/Screenshot%202025-12-12%20181234.png" alt="Room Listings" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
-  <p><i>Available Rooms Display</i></p>
+  <p><i>Login Page</i></p>
 </div>
 
-#### User Profile Management
+#### Booking Management
 <div align="center">
   <img src="screenshots/Screenshot%202025-12-12%20182234.png" alt="User Profile" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
-  <p><i>User Profile Settings</i></p>
+  <p><i>Hostel Booking View</i></p>
 </div>
 
 #### Admin Approval System
