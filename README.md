@@ -37,15 +37,44 @@ A modern, full-stack hostel management system built with Laravel and React. This
 
 ## Screenshots
 
-### User Interface
-Here are some screenshots showcasing the De Rio Hostel Management System:
+### Application Preview
+Experience the De Rio Hostel Management System with these interface screenshots:
 
-![Screenshot 1](screenshots/1Screenshot%202025-12-12%20181219.png)
-![Screenshot 2](screenshots/Screenshot%202025-12-12%20181234.png)
-![Screenshot 3](screenshots/Screenshot%202025-12-12%20182121.png)
-![Screenshot 4](screenshots/Screenshot%202025-12-12%20182234.png)
-![Screenshot 5](screenshots/Screenshot%202025-12-12%20182247.png)
-![Screenshot 6](screenshots/Screenshot%202025-12-12%20182257.png)
+#### Dashboard & Booking Management
+<div align="center">
+  <img src="screenshots/1Screenshot%202025-12-12%20181219.png" alt="Dashboard" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
+  <p><i>Main Dashboard View</i></p>
+</div>
+
+#### Room Listings & Details
+<div align="center">
+  <img src="screenshots/Screenshot%202025-12-12%20181234.png" alt="Room Listings" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
+  <p><i>Available Rooms Display</i></p>
+</div>
+
+#### Booking Creation
+<div align="center">
+  <img src="screenshots/Screenshot%202025-12-12%20182121.png" alt="Booking Form" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
+  <p><i>Booking Creation Interface</i></p>
+</div>
+
+#### User Profile Management
+<div align="center">
+  <img src="screenshots/Screenshot%202025-12-12%20182234.png" alt="User Profile" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
+  <p><i>User Profile Settings</i></p>
+</div>
+
+#### Admin Approval System
+<div align="center">
+  <img src="screenshots/Screenshot%202025-12-12%20182247.png" alt="Admin Panel" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
+  <p><i>Admin Booking Approval Interface</i></p>
+</div>
+
+#### Booking History & Status
+<div align="center">
+  <img src="screenshots/Screenshot%202025-12-12%20182257.png" alt="Booking History" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
+  <p><i>User Booking History & Tracking</i></p>
+</div>
 
 ## Tech Stack
 
