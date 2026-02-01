@@ -35,6 +35,18 @@ A modern, full-stack hostel management system built with Laravel and React. This
   - Admin signature functionality
   - System overview
 
+## Screenshots
+
+### User Interface
+Here are some screenshots showcasing the De Rio Hostel Management System:
+
+![Screenshot 1](screenshots/1Screenshot%202025-12-12%20181219.png)
+![Screenshot 2](screenshots/Screenshot%202025-12-12%20181234.png)
+![Screenshot 3](screenshots/Screenshot%202025-12-12%20182121.png)
+![Screenshot 4](screenshots/Screenshot%202025-12-12%20182234.png)
+![Screenshot 5](screenshots/Screenshot%202025-12-12%20182247.png)
+![Screenshot 6](screenshots/Screenshot%202025-12-12%20182257.png)
+
 ## Tech Stack
 
 ### Backend
