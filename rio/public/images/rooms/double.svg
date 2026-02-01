@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" width="120" height="80">
+  <rect width="120" height="80" rx="8" fill="#fff7ed"/>
+  <g fill="#1b1b18" opacity="0.9">
+    <rect x="8" y="24" width="104" height="12" rx="2" />
+    <rect x="8" y="38" width="104" height="12" rx="2" />
+  </g>
+  <text x="60" y="14" font-size="10" font-family="sans-serif" fill="#6b7280" text-anchor="middle">Double</text>
+</svg>
