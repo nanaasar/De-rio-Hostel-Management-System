@@ -52,12 +52,6 @@ Experience the De Rio Hostel Management System with these interface screenshots:
   <p><i>Available Rooms Display</i></p>
 </div>
 
-#### Booking Creation
-<div align="center">
-  <img src="screenshots/Screenshot%202025-12-12%20182121.png" alt="Booking Form" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
-  <p><i>Booking Creation Interface</i></p>
-</div>
-
 #### User Profile Management
 <div align="center">
   <img src="screenshots/Screenshot%202025-12-12%20182234.png" alt="User Profile" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
@@ -74,6 +68,12 @@ Experience the De Rio Hostel Management System with these interface screenshots:
 <div align="center">
   <img src="screenshots/Screenshot%202025-12-12%20182257.png" alt="Booking History" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
   <p><i>User Booking History & Tracking</i></p>
+</div>
+
+#### Latest Features
+<div align="center">
+  <img src="screenshots/Screenshot%202026-02-01%20155734.png" alt="Latest Features" width="100%" style="border-radius: 8px; margin: 10px 0;"/>
+  <p><i>Latest System Features & Updates</i></p>
 </div>
 
 ## Tech Stack
